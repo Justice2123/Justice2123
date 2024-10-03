@@ -25,13 +25,13 @@
 
 ### My projects:
 <a href="https://github.com/Justice2123/reqres_api_tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=reqres_api_tests&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=reqres_api_tests&theme=cobalt"/>
 </a>
 <a href="https://github.com/Justice2123/wikipedia_mobile_tests">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=wikipedia_mobile_tests&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=wikipedia_mobile_tests&theme=cobalt"/>
 </a>
 <a href="https://github.com/Justice2123/wildberries_uitests">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=wildberries_uitests&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=wildberries_uitests&theme=cobalt"/>
 </a>
 
 ### Contacts:
