@@ -23,6 +23,11 @@
 <a href = "https://telegram.org/"><img src="media/logo/Telegram.svg" width="6%" title="telegram"></a>
 </p>
 
+### My certificates:
+#### Java QA Automation Engineer
+
+<img height="400" align="center" src="media/logo/Cherkasova.png">
+
 ### My projects:
 <a href="https://github.com/Justice2123/reqres_api_tests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=reqres_api_tests&theme=cobalt"/>
