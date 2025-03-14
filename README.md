@@ -28,6 +28,9 @@
 
 <img height="400" align="center" src="media/logo/Cherkasova.png">
 
+#### Java QA Engineer
+<img height="400" align="center" src="media/logo/stepik.png">
+
 ### My projects:
 <a href="https://github.com/Justice2123/reqres_api_tests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Justice2123&repo=reqres_api_tests&theme=cobalt"/>
